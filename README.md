@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aibozlak
-- 👀 I’m interested in Philosophy of religion and Math in the life.
-- 🌱 I’m currently learning Software (Mobile App; JS, React)
+- 👀 I’m interested in Math in the life.
+- 🌱 I’m currently learning Software (Front-End Web)
 
 
 
