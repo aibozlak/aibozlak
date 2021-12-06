@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aibozlak
-- 👀 I’m interested in Math in the life.
-- 🌱 I’m currently learning Software (Front-End Web)
+- 👀 I’m like studing on Math in the life.
+- 🌱 I’m currently learning Software (Front-End and Mobile)
 
 
 
