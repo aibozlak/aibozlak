@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aibozlak
-- 👀 I’m like studing on Math in the life.
+- 👋 Hi, I’m @aibozlak (Ali Bozlak)
+- 👀 I like studing on Math in the life.
 - 🌱 I’m currently learning Software (Front-End and Mobile)
 
 
