@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aibozlak (Ali Bozlak)
-- 👀 I like studing on Math in the life.
-- 🌱 I’m currently learning Software (Front-End)
+- 🌱 I’m currently learning Software (HTML+CSS, JS, MatLab) and English.
 
 
 
