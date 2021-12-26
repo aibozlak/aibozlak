@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @aibozlak (Ali Bozlak)
-- 🌱 I’m currently learning Software (HTML+CSS, JS, MatLab) and English.
 
 
 
